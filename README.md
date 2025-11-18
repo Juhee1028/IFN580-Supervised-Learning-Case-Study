@@ -33,7 +33,8 @@ for educational purposes as part of the IFN580 coursework.
 It contains no personal or sensitive information.
 
 ## Report
-The final report for this case study was written collaboratively as a team.  
+The final report for this case study was written collaboratively as a team.
+[Download Report (PDF)](report/IFN580_CaseStudy1_Report.pdf)
 This repository contains **my individual code contributions**, including my Decision Tree modelling 
 and cleaned Jupyter Notebooks representing my own work.
 
