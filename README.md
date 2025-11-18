@@ -17,6 +17,7 @@ focused on implementing and analysing the **Decision Tree model**, including:
 - Interpretation of the model outputs and insights
 
 ## Repository Structure
+```
 IFN580-Supervised-Learning-CaseStudy/
 ├── notebooks/
 │   ├── 01_preprocessing.ipynb         # collaborative preprocessing (cleaned version)
@@ -24,6 +25,7 @@ IFN580-Supervised-Learning-CaseStudy/
 ├── report/
 │   └── IFN580_CaseStudy1_Report.pdf   # team-written report
 └── README.md
+```
 
 ## Dataset Source
 The dataset used in this assessment was provided by Queensland University of Technology (QUT) 
